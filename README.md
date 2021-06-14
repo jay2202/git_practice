@@ -14,3 +14,7 @@ Practicing Command
    b. any conflict happen then you have to resolve conflict then merge
    c. now push.
 8. `git clone -b master https://github.com/jay2202/git_practice.git` clones your repo to another remote system
+9.  `git tag 'tag name'` 
+    a. `git push --tags` push your tag to remote repo 
+    b. normal push dont push tags to remote
+10. before pushing clonned repo, first use command `git pull`, otherwise conflicts happen.

@@ -13,4 +13,4 @@ Practicing Command
    a. merge `branch name` to `master`
    b. any conflict happen then you have to resolve conflict then merge
    c. now push.
-8.
+8. `git clone -b master https://github.com/jay2202/git_practice.git` clones your repo to another remote system
